@@ -1,7 +1,7 @@
 /**********************************************************
 // Workshop 3: Classes and Privacy
-// w3_at_home.cpp
-// Version 1.0
+// w3_in_lab.cpp
+// Version 1.1
 // 2017/05/10
 // Chris Szalwinski
 // Description
@@ -11,8 +11,8 @@
 //
 // Revision History
 ///////////////////////////////////////////////////////////
-// Name			Date		          Reason
-// 
+// Name			Date		                         Reason
+// CS          05/29                         removed sict::   
 ///////////////////////////////////////////////////////////
 **********************************************************/
 
@@ -24,7 +24,7 @@ using namespace sict;
 
 int main()
 {
-	sict::CRA_Account myCRA;
+	CRA_Account myCRA;
 	int sin;
 	bool quit = false;
 	char familyName[MAX_NAME_LENGTH + 1];
