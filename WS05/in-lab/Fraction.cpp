@@ -11,7 +11,7 @@
     //
 
     // TODO: implement the min query
-    // min returns the maximum of the numerator and denominator
+    // min returns the minimum of the numerator and denominator
     //
 
     // gcd returns the greatest common divisor of num and denom
